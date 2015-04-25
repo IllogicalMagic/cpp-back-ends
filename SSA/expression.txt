@@ -1,0 +1,4 @@
+result = 5;
+a=2+3;
+a=a/(b=3);
+result= (b < (b=2)) || (a>b);

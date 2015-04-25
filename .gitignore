@@ -26,3 +26,12 @@
 *.exe
 *.out
 *.app
+
+SSA/Parser/*.tab.*
+SSA/Parser/stack.hh
+SSA/Parser/*.output
+SSA/Parser/*.flex.*
+SSA/SSA
+SSA/output.txt
+
+*~
